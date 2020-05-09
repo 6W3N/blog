@@ -1,0 +1,76 @@
+baseURL = "https://6w3n.github.io/"
+#CanonifyURLs=true
+
+languageCode = "en-us"
+theme = "ramium"
+
+title = "6W3N Site"
+disqusShortname = ""
+googleAnalytics = ""
+summaryLength = 40
+pluralizeListTitles = false
+enableemoji = false
+
+[params]
+    description = "'6W3N' is an anagram of 'mwmin' that is one of the nicknames for Wataru Mukaimine"
+    googleSearch = ""
+    showDate = true # make false if dont want to show date
+    math = false # best to enable this in the front matter of a page
+    githubProfile = "6W3N/"
+    
+    tagsInHome = 40
+    sectionsInHome = 5
+    paginatePostsPerPage = 5
+    paginateTagsPerPage = 6
+
+[taxonomies]
+    tag = "tags"
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "blog"
+        name = "This Blog"
+        weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "All Tags"
+                url = "/tags/"
+                weight = 1
+            [[menu.main]]
+                parent = "blog"
+                name = "All Sections"
+                url = "/sections/"
+                weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "All Posts"
+                url = "/posts/"
+                weight = 3
+    
+    [[menu.main]]
+        name = "Author"
+        url = "/author/"
+        weight = 3
+
+    [[menu.main]]
+        name = "Contact"
+        url = "/contact/"
+        weight = 4
+
+    [[menu.main]]
+        name = "Links"
+        url = "/links/"
+        weight = 5
+
+    [[menu.main]]
+        name = "Works"
+        url = "/works/"
+        weight = 6
