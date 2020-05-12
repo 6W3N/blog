@@ -2,7 +2,7 @@
 title: SEM Photo
 date: 2018-11-15
 description: SEM photo
-tags: ["beanweevils", "photo", "sem"]
+tags: ["beanweevils", "photo", "SEM"]
 chordsheet: true
 image: "/image/photo/head-1120x840.png"
 lastmod: 2020-05-09

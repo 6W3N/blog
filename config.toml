@@ -44,11 +44,11 @@ enableemoji = false
                 name = "All Tags"
                 url = "/tags/"
                 weight = 1
-            [[menu.main]]
-                parent = "blog"
-                name = "All Sections"
-                url = "/sections/"
-                weight = 2
+#            [[menu.main]]
+#                parent = "blog"
+#                name = "All Sections"
+#                url = "/sections/"
+#                weight = 2
             [[menu.main]]
                 parent = "blog"
                 name = "All Posts"

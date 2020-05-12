@@ -14,8 +14,8 @@ I'm mainly studying evolutionary ecology.
 #### Career:
 - 2011 Hakuyo High School, Kanagawa Pref., Japan
 - 2014 Undergraduate of Biological Science, Univ. of Tsukuba, Ibaraki Pref., Japan
-- 2018 Master's program of Biological Science, Univ. of Tsukuba, Ibaraki Pref., Japan
-- 2020 Doctor's program of Biological Science, Univ. of Tsukuba, Ibaraki Pref., Japan
+- 2018 Master's Program of Biological Science, Univ. of Tsukuba, Ibaraki Pref., Japan
+- 2020 Doctoral Program in Biology, Univ. of Tsukuba, Ibaraki Pref., Japan
 
 
 #### My interests are:
