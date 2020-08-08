@@ -17,10 +17,10 @@ tags: ["R", "selenium", "Tips", "Webscraping", "html"]
 ここに表示されている画像たちです。
 
 ## Environment
-- Mac OS Catalina var. 10.15.4
-- [Docker](https://www.docker.com/) var. 2.2.0.5
-- [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html) var. 1.7.7
-- [R](https://www.r-project.org/) var. 3.6.1
+- Mac OS Catalina v. 10.15.4
+- [Docker](https://www.docker.com/) v. 2.2.0.5
+- [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html) v. 1.7.7
+- [R](https://www.r-project.org/) v. 3.6.1
 - wget (or curl)
 
 今回はMac OSでの動かし方になります。Linuxでも大筋は変わりません。（誰か試してみて欲しい。）

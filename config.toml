@@ -10,6 +10,8 @@ googleAnalytics = ""
 summaryLength = 40
 pluralizeListTitles = false
 enableemoji = false
+relativeURLs = true
+
 
 [params]
     description = "'6W3N' is an anagram of 'mwmin' that is one of the nicknames for Wataru Mukaimine"
