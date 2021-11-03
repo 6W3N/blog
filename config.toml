@@ -23,7 +23,7 @@ relativeURLs = true
     tagsInHome = 40
     sectionsInHome = 5
     paginatePostsPerPage = 5
-    paginateTagsPerPage = 6
+    paginateTagsPerPage = 12
 
 [taxonomies]
     tag = "tags"

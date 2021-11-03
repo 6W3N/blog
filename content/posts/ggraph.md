@@ -1,13 +1,12 @@
-
-
 ---
 title: ggraph memo
-date: 2020-08-09
-description: Self memo of ggraph + R
+date: 2020-07-30
 tags: ["R", "ggraph", "Tips"]
+description: Self memo of ggraph + R
 ---
 
-<!--This page is a memo to run Selenium from R and do web scraping using RSelenium.-->
+
+<!--This page is a memo to run ggraphs from R.-->
 ## Preface
 
 Rとggraphでネットワークのグラフを書いた時の備忘録です。
@@ -17,7 +16,7 @@ Rとggraphでネットワークのグラフを書いた時の備忘録です。
 それを解決するために{ggraph}を用いました。そのメモです。
 
 ## Environment
-- Mac OS Catalina var. 10.15.4
+- Mac OS Catalina ver. 10.15.4
 - [R ggraph](https://cran.r-project.org/web/packages/ggraph/ggraph.pdf) ver. 2.0.3
 - [R](https://www.r-project.org/) ver. 4.0.2
 
@@ -220,6 +219,9 @@ ggpubr::ggarange(net1, net2,
 
 
 Enjoy!
+
+
+
 
 
 
