@@ -18,7 +18,8 @@ url: "/links/"
 - <a href="http://www.sugadaira.tsukuba.ac.jp/machida/englishi.html" target="_blank">Mr. Takayuki YAMAMOTO</a>
 - <a href="http://www.sugadaira.tsukuba.ac.jp/machida/englishi.html" target="_blank">Dr. Ryuichiro MACHIDA</a>
 - <a href="https://www.somany-frogs.com/top_jp/" target="_blank">Dr. Kazutaka KAWATSU</a>
-
+- <a href="https://sites.google.com/view/ysasagani//" target="_blank">Mr. Yuya Suzuki</a>
+<!--- <a href="" target="_blank">Dr. Akiko Shoji</a>-->
 
 
 
