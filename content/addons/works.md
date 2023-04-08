@@ -8,16 +8,17 @@ url: "/works/"
 ---
 
 ## Publication
-- "Terrestrial and freshwater mollusks on the University of Tsukuba Campus, Tsukuba city, Japan" (in Japanese with English Abstract), Noriaki NAMBA, __Wataru MUKAIMINE__, Takuma HAGA, and Ikuyo SAEKI, (accepted), Chiribotan. [URL](https://tsukuba.repo.nii.ac.jp/record/56134/files/chiribotan_50(2)-221.pdf).
-- "Digging out intersexual and meteorological effects on cicada emergence using 10-year citizen monitoring", __Wataru MUKAIMINE__, Kazutaka KAWATSU, and Yukihiko TOQUENAGA, Ecological Entomology. [URL](https://onlinelibrary.wiley.com/doi/10.1111/een.13109).
-- "Prey–predator interactions and body size relationships between annual cicadas and spiders in Japan", Yuya SUZUKI and __Wataru MUKAIMINE__, Journal of Natural History. [URL](https://www.researchgate.net/publication/358165178_Prey-predator_interactions_and_body_size_relationships_between_annual_cicadas_and_spiders_in_Japan)
+- "[Terrestrial and freshwater mollusks on the University of Tsukuba Campus, Tsukuba city](https://tsukuba.repo.nii.ac.jp/record/56134/files/chiribotan_50(2)-221.pdf) (in Japanese with English Abstract)", Noriaki NAMBA, __Wataru MUKAIMINE__, Takuma HAGA, and Ikuyo SAEKI, Chiribotan.
+- "[Digging out intersexual and meteorological effects on cicada emergence using 10-year citizen monitoring](https://onlinelibrary.wiley.com/doi/10.1111/een.13109)", __Wataru MUKAIMINE__, Kazutaka KAWATSU, and Yukihiko TOQUENAGA, Ecological Entomology. [Behind-the-scenes](https://6w3n.github.io/posts/newpaper211119/).
+- "[Prey–predator interactions and body size relationships between annual cicadas and spiders in Japan](https://www.researchgate.net/publication/358165178_Prey-predator_interactions_and_body_size_relationships_between_annual_cicadas_and_spiders_in_Japan)", Yuya SUZUKI and __Wataru MUKAIMINE__, Journal of Natural History. [Behind-the-scenes](https://6w3n.github.io/posts/newpaper220127/). 
+- "[Effects of Female Hind Legs on Interspecific Mating in _Callosobruchus_ Species](https://www.jstage.jst.go.jp/article/seitai/72/2/72_169/_article/-char/ja/)" (in Japanese with English Abstract), __Wataru MUKAIMINE__ and Yukihiko TOQUENAGA, Japanese Journal of Ecology.
+- "[Intraspecific variation of reproductive interference capability in _Callosobruchus_ species](https://link.springer.com/article/10.1007/s10682-022-10223-3)", __Wataru MUKAIMINE__ and Yukihiko TOQUENAGA, Evolutionary Ecology, [Behind-the-scenes](https://6w3n.github.io/posts/newpaper221122/).
+
 
 In press
-- "Effects of Female Hind Legs on Interspecific Mating in _Callosobruchus_ Species" (in Japanese with English Abstract), __Wataru MUKAIMINE__ and Yukihiko TOQUENAGA, Japanese Journal of Ecology
 
 Under review / in preparation
 - Chinatsu NAKAJIMA et al., (in Japanese; in review)
-- __Wataru MUKAIMINE__ and Yukihiko TOQUENAGA, (in prep.).
 - __Wataru MUKAIMINE__ and Yukihiko TOQUENAGA, (in prep.).
 
 ## Presentation

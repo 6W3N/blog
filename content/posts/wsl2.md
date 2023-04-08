@@ -1,7 +1,7 @@
 ---
 title: tidyverse on wsl2
 date: 2022-12-10
-tags: [tag1, tag2]
+tags: [windows, tidyverse, R, wsl2]
 ---
 
 # tidyverse on wsl2
@@ -32,7 +32,7 @@ sudo apt install r-base
 R --version
 ```
 
-参照：https://medium.com/@hpgomide/how-to-update-your-r-3-x-to-the-r-4-x-in-your-linux-ubuntu-46e2209409c3#:~:text=How%20to%20update%20R%203.x%20to%20the%20new,3.x%20packages%20to%20the%20new%204.0.%20See%20More.
+[参照](https://medium.com/@hpgomide/how-to-update-your-r-3-x-to-the-r-4-x-in-your-linux-ubuntu-46e2209409c3#:~:text=How%20to%20update%20R%203.x%20to%20the%20new,3.x%20packages%20to%20the%20new%204.0.%20See%20More)
 
 ## tidyverseのインストール
 ここからはおそらくwindowsのいじり具合に依存して色々違うと思います。今回は購入後すぐに試したのでまっさらな状態です。
@@ -104,5 +104,4 @@ sudo apt-get update; \
 sudo dpkg -i systemd-genie.deb 
 ```
 
-参照：https://qiita.com/toroi-ex/items/86be61be9b63f4dac5f3
-
+[参照](https://qiita.com/toroi-ex/items/86be61be9b63f4dac5f3)

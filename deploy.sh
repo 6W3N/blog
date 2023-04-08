@@ -23,4 +23,3 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-#access token: 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

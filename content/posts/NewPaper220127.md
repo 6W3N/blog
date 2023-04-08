@@ -1,7 +1,7 @@
 ---
 title: New paper is out (2022/1/27)
 date: 2022-01-27
-tags: ["Spider", "Cicada", "R", "Twitter", "Google", "Scraping"]
+tags: ["Article", "Spider", "Cicada", "R", "Twitter", "Google", "Scraping"]
 ---
 
 __共著論文が出ました！__
